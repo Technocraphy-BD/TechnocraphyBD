@@ -1,4 +1,6 @@
-![TBD_Logo_Name_300x300_Trans_7](https://github.com/techcraphybd/techcraphybd.github.io/assets/152802305/e3dfc8dc-0be5-40ed-829f-114f0c989217)
+
+![Logo Buttun Design](https://github.com/user-attachments/assets/4aacbd99-34ed-4af7-90a4-3ada7bc2e5fc)
+
 # A Center for STEAM Education in Bangladesh
 ![TBD_CR_Wall_Sticker_SE_8x4ft_5](https://github.com/techcraphybd/techcraphybd.github.io/assets/152802305/5a9fb8c8-5cfd-4cec-8868-d94c3482c0ff)
 
