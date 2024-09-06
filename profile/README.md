@@ -1,4 +1,3 @@
-
 ![Logo Buttun Design](https://github.com/user-attachments/assets/4aacbd99-34ed-4af7-90a4-3ada7bc2e5fc)
 
 # A Center for STEAM Education in Bangladesh
@@ -19,8 +18,3 @@ Technocraphy BD is a center of learning, designing and implementing next generat
 ![Banner_S_EgginBottle](https://github.com/user-attachments/assets/34c3a1ba-649c-43b0-b7fd-71f69bf41413)
 ![Banner_S_DonateBlood](https://github.com/user-attachments/assets/bbe07ed3-db42-46d6-87e1-8df03ee5b64d)
 ![Banner_S_BasicColors](https://github.com/user-attachments/assets/4226e13b-c117-4ee4-8850-287da4142c1b)u
-
-
-![TBD Wall Dial 18_Logo_1](https://github.com/techcraphybd/techcraphybd.github.io/assets/152802305/327b1773-efbb-478a-bd52-49ee75ab1d78)
-
-![top_banner_3d](https://github.com/techcraphybd/techcraphybd.github.io/assets/152802305/6b255a0b-c90d-43dd-a4ed-8137bd7aad28)
